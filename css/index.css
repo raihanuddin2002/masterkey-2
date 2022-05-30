@@ -1,0 +1,45 @@
+.register-btn:focus,
+.register-btn:active,
+.register-btn:visited {
+    box-shadow: none !important;
+}
+
+.logo {
+    width: 70px;
+}
+
+.navbar-nav li a {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+.navbar-nav li a:hover,
+a:hover,
+a:focus {
+    color: green !important;
+}
+
+.carousel {
+    box-shadow: 0px 0px 1px grey;
+}
+
+.active {
+    color: #035755 !important;
+}
+
+.bg-mint {
+    background-color: #F0FFF0;
+}
+
+.marginTop {
+    margin-left: -100000000px;
+}
+
+.side-menu {
+    height: 50px;
+    width: 100%;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
